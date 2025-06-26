@@ -1,3 +1,11 @@
 # personal-portfolio-resume
-     showcase skills
+     BUILD USING HTML CSS AND JAVASCRIPT ENSURE SHOWCASE SKILLS AND PERFORM VARIOUS ACTIVITY 
+     THIS CONTAINS::::
+     ABOUT ME
+     DOWNLOAD CV
+     CONTACT ME
+     A RESPONSIVE DESIGN
+     PROJECTS
+     SKILLS
+     
      
